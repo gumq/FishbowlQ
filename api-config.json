@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "url_select": "https://devapicontrol-dms.kimtingroup.com:44361/api/",
+  "url_select": "https://uatapicontrol-dms.kimtingroup.com:44351/api/",
   "default": "uat",
   "envs": {
     "dev": {
