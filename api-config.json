@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "url_select": "https://dmsapi-admin.kimtingroup.com/api/",
-  "default": "Production",
+  "default": "prod",
   "envs": {
     "dev": {
       "name": "Development",
