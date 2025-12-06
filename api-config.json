@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "url_select": "https://devapicontrol-dms.kimtingroup.com:44361/api/",
+  "url_select": "https://dmsapi-admin.kimtingroup.com/api/",
   "default": "dev",
   "envs": {
     "dev": {
