@@ -1,0 +1,11 @@
+{  "buildiosGolive":52,
+"buildiosUAT":53,
+"buildAndroidUAT":50,
+"buildAndroidGolive":51,
+  "latestVersion": "1.0.0",
+  "forceUpdate": true,
+  "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
+  "linkTestflightUAT": "https://testflight.apple.com/join/gap2mEECttt",
+"linkAndroidUAT": "https://",
+"linkAndroidGolive": "https://"
+}
