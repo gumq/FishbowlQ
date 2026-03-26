@@ -1,11 +1,11 @@
-{  "buildiosGolive":52,
-"buildiosUAT":53,
-"buildAndroidUAT":50,
-"buildAndroidGolive":51,
-  "latestVersion": "1.0.0",
-  "forceUpdate": true,
-  "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
-  "linkTestflightUAT": "https://testflight.apple.com/join/gap2mEECttt",
-"linkAndroidUAT": "https://",
-"linkAndroidGolive": "https://"
+{  "buildiosGolive":152,
+"buildiosUAT":153,
+"buildAndroidUAT":150,
+"buildAndroidGolive":151,
+"latestVersion": "1.0.0",
+"forceUpdate": true,
+"linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
+"linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
+"linkAndroidUAT": "https://drive.google.com/drive/folders/1T28fiMJF9VkBBJp5weFRSkM1sAYCbNaY?usp=sharing",
+"linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin"
 }
