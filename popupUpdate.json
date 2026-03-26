@@ -7,5 +7,10 @@
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
 "linkAndroidUAT": "https://drive.google.com/drive/folders/1T28fiMJF9VkBBJp5weFRSkM1sAYCbNaY?usp=sharing",
-"linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin"
+"linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
+"note":"Golive  bản cập nhật 1.0.0.151. Nội dung:
+ - Fix các issues nội bộ hoàn thành trong NLT_Isuse
+ - Fix case checkout ghé thăm issue ngày 23/03
+ - Hạn mức ngắn hạn
+ - Ủy quyền trình ký"
 }
