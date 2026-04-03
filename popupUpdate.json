@@ -1,12 +1,12 @@
 {  "buildiosGolive":159,
 "buildiosUAT":158,
 "buildAndroidUAT":157,
-"buildAndroidGolive":151,
+"buildAndroidGolive":159,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
 "linkAndroidUAT": "https://drive.google.com/file/d/1gSu5HG4g8h1HEmXM2XKDe31KMSveecLO/view?usp=drivesdk",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
-"note":"Bản cập nhật mới. Nội dung:\n- Fix Hạn mức tín dụng \n- Fix Hạn mức ngắn hạn\n- Fix trình ký xét duyệt"
+"note":"Bản cập nhật mới. Nội dung:\n- Fix Cập nhật thông báo bản cập nhật mới \n- Fix Checkout ghé thăm khách hàng\n-"
 }
