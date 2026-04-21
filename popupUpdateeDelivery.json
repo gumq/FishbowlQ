@@ -1,6 +1,6 @@
 {  "buildiosGolive":1,
 "buildiosUAT":1,
-"buildAndroidUAT":100,
+"buildAndroidUAT":1,
 "buildAndroidGolive":1,
 "latestVersion": "1.6.0",
 "forceUpdate": true,
