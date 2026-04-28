@@ -1,12 +1,12 @@
-{  "buildiosGolive":170,
+{  "buildiosGolive":178,
 "buildiosUAT":177,
 "buildAndroidUAT":168,
-"buildAndroidGolive":170,
+"buildAndroidGolive":178,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
 "linkAndroidUAT": "https://drive.google.com/file/d/1WaSAjtBXru4sWvOHy-SUBQqK3BONP9F5/view?usp=drive_link",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
-"note":"Bản cập nhật mới. Nội dung:\n- Fix Hồ sơ khách hàng \n- Cập nhật ủy quyền\n- Cập nhật kế hoạch ghé thăm KH"
+"note":"Bản cập nhật mới. Nội dung:\n- Fix Chức năng tạo mới Shipto \n- Tạo mới HSKH là nhân viên kinh doanh (đầu 7)\n- Cập nhật kế hoạch ghé thăm KH"
 }
