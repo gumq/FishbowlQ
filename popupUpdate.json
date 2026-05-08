@@ -1,12 +1,12 @@
-{  "buildiosGolive":178,
-"buildiosUAT":183,
-"buildAndroidUAT":183,
+{  "buildiosGolive":186,
+"buildiosUAT":185,
+"buildAndroidUAT":185,
 "buildAndroidGolive":178,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
-"linkAndroidUAT": "https://drive.google.com/file/d/1_IRfb9Pl_VFKnGUfKzvOPeaUO3gs8-y7/view?usp=sharing",
+"linkAndroidUAT": "https://drive.google.com/file/d/1CK9f_I-Or_r0DdjVvQAk1IbrSoQopByY/view?usp=sharing",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
-"note":"Bản cập nhật mới. Nội dung:\n- Fix Chức năng tạo mới Shipto \n- Tạo mới HSKH là nhân viên kinh doanh (đầu 7)\n- Cập nhật kế hoạch ghé thăm KH"
+"note":"Bản cập nhật mới. Nội dung:\n- Fix Chức năng tạo mới Shipto \n- Fix HSKH là nhân viên kinh doanh (đầu 7)\n- Fix Cập nhật kế hoạch ghé thăm KH"
 }
