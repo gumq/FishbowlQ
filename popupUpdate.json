@@ -1,12 +1,12 @@
 {  "buildiosGolive":190,
 "buildiosUAT":189,
-"buildAndroidUAT":191,
+"buildAndroidUAT":192,
 "buildAndroidGolive":190,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
-"linkAndroidUAT": "https://drive.google.com/file/d/1M6vPhY8IncGE5KdXnhlfGIw46pMAfShc/view?usp=sharing",
+"linkAndroidUAT": "https://drive.google.com/file/d/1a9wd7ukhzsgX2BPf7vy1pybmTWOdRFIP/view?usp=sharing",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
 "note":"Bản cập nhật mới. Nội dung:\n- Fix Chức năng tạo mới Shipto \n- Update HSKH"
 }
