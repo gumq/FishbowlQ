@@ -1,12 +1,12 @@
 {  "buildiosGolive":196,
 "buildiosUAT":195,
-"buildAndroidUAT":197,
+"buildAndroidUAT":198,
 "buildAndroidGolive":196,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
-"linkAndroidUAT": "https://drive.google.com/file/d/1zgmoLMHmFKsdZTJQ_H4Msk_oLCKnuxLd/view?usp=sharing",
+"linkAndroidUAT": "https://drive.google.com/file/d/1bjsFJPCaIlafT42VE4-d8unR2HdZgnGg/view?usp=sharing",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
 "note":"Bản cập nhật mới. Nội dung:\n- Update chức năng ghé thăm khách hàng theo issues golive \n- Fix Chức năng tạo mới Shipto \n- Update HSKH"
 }
