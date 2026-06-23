@@ -1,12 +1,12 @@
 {  "buildiosGolive":212,
 "buildiosUAT":211,
-"buildAndroidUAT":211,
+"buildAndroidUAT":214,
 "buildAndroidGolive":211,
 "latestVersion": "1.0.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://testflight.apple.com/join/gap2mEEC",
 "linkTestflightUAT": "https://testflight.apple.com/join/zRUpXnwa",
-"linkAndroidUAT": "https://drive.google.com/file/d/1RdYgnsB7E97zYZ5Aj7pmgeP8Npr2DinH/view?usp=sharing",
+"linkAndroidUAT": "https://drive.google.com/file/d/1Sa7dkTeEtfGOSaXB6SSr4xHdA30QBEOH/view?usp=sharing",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.eSalesKimTin",
 "note":"Bản cập nhật mới. Nội dung:\n- Update bảo mật file PDF, hình ảnh \n- Fix Chức năng tạo mới Shipto \n- Update HSKH"
 }
