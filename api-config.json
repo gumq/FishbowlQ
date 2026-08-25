@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "url_select": "https://dmsapi-admin.kimtingroup.com/api/",
-   "url_select1": "ttps://uatapicontrol-dms.kimtingroup.com:44351/api/",
+   "url_select1": "https://uatapicontrol-dms.kimtingroup.com:44351/api/",
   "default": "prod",
   "envs": {
     "dev": {
