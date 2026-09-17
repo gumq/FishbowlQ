@@ -3,6 +3,7 @@
   "url_select": "https://dmsapi-admin.kimtingroup.com/api/",
    "url_select1": "https://dmsapi-admin.kimtingroup.com/api/",
     "url_select2": "https://devapicontrol-dms.kimtingroup.com:44361/api/",
+  "url_select3": "https://uatapicontrol-dms.kimtingroup.com:44351/api/",
   "default": "prod",
   "envs": {
     "dev": {
