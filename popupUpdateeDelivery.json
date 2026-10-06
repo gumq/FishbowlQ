@@ -1,12 +1,12 @@
 {  "buildiosGolive":1,
-"buildiosUAT":91,
-"buildAndroidUAT":91,
+"buildiosUAT":92,
+"buildAndroidUAT":92,
 "buildAndroidGolive":1,
 "latestVersion": "1.6.0",
 "forceUpdate": true,
 "linkTestflightGolive": "https://apps.apple.com/us/app/ktg-edelivery/id6757467205",
 "linkTestflightUAT": "https://testflight.apple.com/join/c58WFYBU",
-"linkAndroidUAT": "https://drive.google.com/file/d/1-xt2isdxQ8jU4fqQKYIfouQcM6RXJZzL/view?usp=sharing",
+"linkAndroidUAT": "https://drive.google.com/file/d/17X48hltAnG-nxRkvwuErkeHzW1CshDIx/view?usp=sharing",
 "linkAndroidGolive": "https://play.google.com/store/apps/details?id=com.e_delivery",
 "note":"Bản cập nhật mới. Nội dung:\n- Giao hàng"
 }
