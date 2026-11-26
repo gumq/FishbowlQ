@@ -1,6 +1,6 @@
 {
   "buildiosGolive": 1,
-  "buildiosUAT": 1,
+  "buildiosUAT": 10,
   "buildAndroidUAT": 1,
   "buildAndroidGolive": 1,
   "latestVersion": "1.0.0",
