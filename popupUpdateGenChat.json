@@ -1,12 +1,13 @@
-{  "buildiosGolive":1,
-"buildiosUAT":1,
-"buildAndroidUAT":1,
-"buildAndroidGolive":1,
-"latestVersion": "1.0.0",
-"forceUpdate": true,
-"linkTestflightGolive": "https://testflight.apple.com/join/2gxtJkgb",
-"linkTestflightUAT": "https://testflight.apple.com/join/2gxtJkgb",
-"linkAndroidUAT": "https://drive.google.com/file/d/1EtTcVwvMO_j5RNb63zVv54lLeXY1mc9e/view?usp=sharing",
-"linkAndroidGolive": "https://drive.google.com/file/d/1EtTcVwvMO_j5RNb63zVv54lLeXY1mc9e/view?usp=sharing",
-"note":"Bản cập nhật mới. Nội dung:\n- E2EE"
+{
+  "buildiosGolive": 1,
+  "buildiosUAT": 1,
+  "buildAndroidUAT": 1,
+  "buildAndroidGolive": 1,
+  "latestVersion": "1.0.0",
+  "forceUpdate": true,
+  "linkTestflightGolive": "https://testflight.apple.com/join/2gxtJkgb",
+  "linkTestflightUAT": "https://testflight.apple.com/join/2gxtJkgb",
+  "linkAndroidUAT": "https://drive.google.com/file/d/1EtTcVwvMO_j5RNb63zVv54lLeXY1mc9e/view?usp=sharing",
+  "linkAndroidGolive": "https://drive.google.com/file/d/1EtTcVwvMO_j5RNb63zVv54lLeXY1mc9e/view?usp=sharing",
+  "note": "Bản cập nhật mới. Nội dung:\n- E2EE"
 }
