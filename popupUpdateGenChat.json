@@ -1,7 +1,7 @@
 {
   "buildiosGolive": 1,
-  "buildiosUAT": 1,
-  "buildAndroidUAT": 1,
+  "buildiosUAT": 16,
+  "buildAndroidUAT": 16,
   "buildAndroidGolive": 1,
   "latestVersion": "1.0.0",
   "forceUpdate": true,
